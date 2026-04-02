@@ -1,7 +1,7 @@
 module tff (
     input T, Clock,
     output reg Q,
-    output notQ
+    output NotQ
     );
    
    initial begin
